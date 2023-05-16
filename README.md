@@ -165,7 +165,9 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![pro pic1](https://user-images.githubusercontent.com/119518996/234248587-83f7cd80-4c38-419d-b4a6-60dd046c2532.png)
 ![prg ex 3 pic 2](https://user-images.githubusercontent.com/119518996/234248646-7a8a34ee-7f9f-4ad3-9b2e-cc23ee6aa5ec.png)
 
- 
+ ## OUTPUT:
+ ![layout](https://github.com/Gokulanbazhagan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119518996/30a41abf-5f36-41b8-be4c-8f5c7772db55)
+
  
  
 ## Result :
